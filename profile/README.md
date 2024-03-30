@@ -15,9 +15,9 @@ I chosed one repo per stack so that I can simply donwload only the repo i need a
 
 Appart for the  .env-example file that i generate by hand I simply deploy them in a 3 step process with dockge https://github.com/louislam/dockge
 
-git clone the desired repo int the dockge stacks folder 
+Clone the desired repo into the dockge stacks folder. 
 
-got to dockge and fill the environment to your need 
+Go to dockge and fill the environment to your need.
 
 Deploy 🚀!
 
