@@ -19,8 +19,12 @@ Clone the desired repo into the dockge stacks folder.
 
 Go to dockge and fill the environment to your need.
 
-Deploy 🚀!
+Deploy!  🚀
 
+
+
+The private stacks like nextcloud are exposed to me through  cloudflare tunnels and secured with github logins, the public ones like my ghost blog [danielpetrica.com](https://danielpetrica.com) are exposed through a traefik proxy.
+ 
 <!--
 
 **Here are some ideas to get you started:**
