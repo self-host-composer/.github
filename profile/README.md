@@ -12,6 +12,15 @@ I'l slowly create one repo per stack and add it in this organization.
 ### Why one repo per stack? 
 I chosed one repo per stack so that I can simply donwload only the repo i need and deploy it without downloading too many things that I don't need. 
 
+
+Appart for the  .env-example file that i generate by hand I simply deploy them in a 3 step process with dockge https://github.com/louislam/dockge
+
+git clone the desired repo int the dockge stacks folder 
+
+got to dockge and fill the environment to your need 
+
+Deploy 🚀!
+
 <!--
 
 **Here are some ideas to get you started:**
